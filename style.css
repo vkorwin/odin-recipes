@@ -1,0 +1,18 @@
+h1 {
+    background-color:blue;
+    color: white;
+}
+h2 {
+    background-color: #bebebe;
+    font-weight: bold;
+}
+p, li{
+    background-color: #DBF3FA;
+}
+
+#home {
+    background-color:#76ff03;
+}
+#source {
+    background-color:yellow;
+}
